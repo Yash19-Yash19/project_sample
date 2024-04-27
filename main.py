@@ -47,7 +47,7 @@ if rad=="Home":
 
 
     Before you convert  you have to upload or capture an image
-    for the conversion of image to a pensil sketch image......😊🙂🙂😊😊
+    for the conversion of image to a pencil sketch image......😊🙂🙂😊😊
     """)
 
 
@@ -74,13 +74,13 @@ if rad=="Home":
 
     if textOutput=='Select an option':
         # displaying an image and tagline
-        st.markdown("""
-        ##  PencilSketch Editor....
+        # st.markdown("""
+        # ##  PencilSketch Editor....
     
 
-        Before you convert  you have to upload or capture an image
-        for the conversion of image to a pensil sketch image......😊🙂🙂😊😊
-        """)
+        # Before you convert  you have to upload or capture an image
+        # for the conversion of image to a pensil sketch image......😊🙂🙂😊😊
+        # """)
 
 
     elif textOutput=='Capture Image':
