@@ -41,15 +41,15 @@ rad =st.sidebar.radio(" Menu",["Home","Help","About us","Contact us"])
 if rad=="Home":
 
     # displaying an image and tagline
-    st.markdown("""
-    #  Image  to Pencil Sketch 
+    # st.markdown("""
+    # #  Image  to Pencil Sketch 
 
 
 
-    Before you convert  you have to upload or capture an image
-    for the conversion of image to a pencil sketch image......😊🙂🙂😊😊
-    """)
-
+    # Before you convert  you have to upload or capture an image
+    # for the conversion of image to a pencil sketch image......😊🙂🙂😊😊
+    # """)
+    st.markdown("""""")
 
 # adding ballons animation
     # st.balloons()
