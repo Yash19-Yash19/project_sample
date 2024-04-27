@@ -74,7 +74,7 @@ if rad=="Home":
     if textOutput=='Select an option':
         # displaying an image and tagline
         st.markdown("""
-        ##  ....
+        ##  
     
 
         Before you convert  you have to upload or capture an image
