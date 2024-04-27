@@ -29,7 +29,7 @@ st.set_page_config(layout="wide")
 
 # setting up app title 
 st.markdown(""" 
-# PSEditor
+# Pcode
 """)
 
 
@@ -218,7 +218,7 @@ if rad=="About us":
 
 # Contact us section
 if rad=="Contact us":
-    st.write("Courtesy: itsyou  - [Sketch Code](https://github.com/Yash19-Yash19/PSEditor)")
+    st.write("Courtesy: itsyou  - [Project Code](https://github.com/Yash19-Yash19/PSEditor)")
     st.markdown("![](https://avatars.githubusercontent.com/u/73273674?s=400&u=2eedf54ee0e7d1bfd8eafc4a78f574074ace7130&v=4)")
 
 
