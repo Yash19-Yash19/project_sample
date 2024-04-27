@@ -74,7 +74,7 @@ if rad=="Home":
     if textOutput=='Select an option':
         # displaying an image and tagline
         st.markdown("""
-        ##  PencilSketch Editor....
+        ##  ....
     
 
         Before you convert  you have to upload or capture an image
@@ -209,7 +209,8 @@ if rad=="Help":
 if rad=="About us":
         
     st.markdown("""
-    #  Developed by.....
+    #  Developed by.....me....
+    🫠🫠🫠🫠🫠
     """)
     
 
